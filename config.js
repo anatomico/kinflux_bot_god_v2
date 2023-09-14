@@ -59,7 +59,7 @@ global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _➳ᴹᴿ᭄ᴍᴏᴤᴇ༒ bot loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
